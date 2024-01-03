@@ -1,4 +1,13 @@
-This is Weather Forecast web app , It covers almost every region around the world.
-It displays Temperature , Humidity , Wind Pressure and real feel.
-It is designed with high quality icon's for better user interface.
-It Responsive web app.
+# Weather App
+A simple and stylish weather application that provides real-time weather information for any city. Stay updated on temperature, humidity, wind speed, and more.
+
+## Features
+- Search for weather by city name.
+- View current temperature, real feel, humidity, wind speed, and pressure.
+- Beautiful weather icons to represent current conditions.
+
+## Technologies Used
+- HTML
+- CSS 
+- JavaScript
+- OpenWeatherMap API: Used for fetching real-time weather data.
